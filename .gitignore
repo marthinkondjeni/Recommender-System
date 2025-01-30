@@ -1,0 +1,49 @@
+# Ignore Julia package directories
+/dev/
+/deps/
+/docs/build/
+/Manifest.toml
+
+# Ignore compiled files and local settings
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.DS_Store
+
+# Ignore Jupyter notebooks checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore environment-specific files
+.env
+.venv/
+venv/
+ENV/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore build and output directories
+/build/
+/target/
+/dist/
+/__pycache__/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore local Julia depot and artifacts
+/local/
+/artifacts/
+
+# Ignore test result files
+/test/results/
+/test/reports/
+
+# Ignore notebook outputs and cache
+*.ipynb
+*.nbconvert.ipynb
