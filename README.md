@@ -29,7 +29,6 @@ Before running the project, ensure you have the following installed:
 
 
 ## Project Structure
-``
 Recommender-System/
 ├── data/                    # Dataset files
 ├── src/                     # Source code for the recommender system
@@ -38,8 +37,6 @@ Recommender-System/
 ├── Manifest.toml            # Julia manifest file
 ├── README.md                # This file
 └── .gitignore               # Files and directories to ignore in Git
-
-``
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
