@@ -16,6 +16,12 @@ Before running the project, ensure you have the following installed:
 
 - **Julia** (version 1.10 or higher)
 - **Git** (to clone the repository)
+- **HPC (High-Performance Computing) Environment** (optional but recommended for training)
+
+   If you plan to run this project on an HPC cluster, ensure you have access to the cluster and the necessary permissions to install Julia and its dependencies. Common HPC job schedulers include:
+   - Slurm
+
+---
 
 ## Installation
 1. **Clone the Repository**:
